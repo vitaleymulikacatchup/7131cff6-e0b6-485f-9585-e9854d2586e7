@@ -2,7 +2,7 @@
 import NavbarLayoutFloatingInline from '@/components/navigation/NavbarLayoutFloatingInline';
 import BillboardHero from '@/components/sections/layouts/hero/BillboardHero';
 import SplitAbout from '@/components/sections/layouts/about/SplitAbout';
-import HowToBuy2D from '@/components/sections/layouts/howtobuy/StepCards2D';
+import HowToBuy2D from '@/components/sections/layouts/howtobuy/2DHTB';
 import TextGridTokenomics from '@/components/sections/layouts/tokenomics/TextGridTokenomics';
 import CentralFAQ from '@/components/sections/layouts/faq/CentralFAQ';
 import { SiteThemeProvider } from '@/components/sections/ThemeProvider';
